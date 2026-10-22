@@ -245,3 +245,5 @@ h3.subhead { margin: 2rem 0 1rem; font-size: 1.2rem; color: var(--accent-color);
   html { scroll-behavior: auto; }
   .project-card { transition: none; }
 }
+
+.project-links { justify-content: flex-start; margin: 1.2rem 0 0; }
